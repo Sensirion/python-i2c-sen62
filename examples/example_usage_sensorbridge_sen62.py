@@ -7,7 +7,7 @@
 #
 # Generator:     sensirion-driver-generator 1.5.3
 # Product:       sen62
-# Model-Version: 1.0.1
+# Model-Version: 1.0.2
 #
 
 import argparse
