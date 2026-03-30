@@ -7,7 +7,7 @@
 #
 # Generator:     sensirion-driver-generator 1.5.3
 # Product:       sen62
-# Model-Version: 1.1.0
+# Model-Version: 1.0.1
 #
 """
 The signal classes specify transformations of the raw sensor signals into a meaningful units.
