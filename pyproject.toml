@@ -7,7 +7,7 @@ name = "sensirion_i2c_sen62"
 description = "I2C driver for the Sensirion SEN62 sensor family"
 
 readme = "README.md"
-version =  "1.2.0"
+version =  "1.1.0"
 
 requires-python = ">=3.8.4,<4.0"
 
