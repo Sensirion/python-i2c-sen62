@@ -2,7 +2,7 @@
 
 This repository contains the Python driver to communicate with a Sensirion SEN62 sensor over I2C.
 
-<img src="https://raw.githubusercontent.com/Sensirion/python-i2c-sen62/master/images/sen6x.png"
+<img src="https://raw.githubusercontent.com/Sensirion/python-i2c-sen62/master/images/product-image-sen6x.png"
     width="300px" alt="SEN62 picture">
 
 
@@ -21,7 +21,7 @@ For special setups you find the sensor pinout in the section below.
 
 <details><summary>Sensor pinout</summary>
 <p>
-<img src="https://raw.githubusercontent.com/Sensirion/python-i2c-sen62/master/images/sen6x-pinout.png"
+<img src="https://raw.githubusercontent.com/Sensirion/python-i2c-sen62/master/images/product-pinout-sen6x.png"
      width="300px" alt="sensor wiring picture">
 
 | *Pin* | *Cable Color* | *Name* | *Description*  | *Comments* |
